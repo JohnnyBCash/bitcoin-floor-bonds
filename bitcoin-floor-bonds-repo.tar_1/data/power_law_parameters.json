@@ -1,0 +1,46 @@
+{
+  "model": "Santostasi Bitcoin Power Law",
+  "parameters": {
+    "logA": -16.493,
+    "beta": 5.688,
+    "genesis": "2009-01-03"
+  },
+  "floor_definitions": {
+    "floor_conservative": {
+      "multiplier": 0.314,
+      "method": "Full-dataset P1",
+      "use": "Stress testing, collateral thresholds"
+    },
+    "floor_published": {
+      "multiplier": 0.422,
+      "method": "Cycle 4 P1",
+      "use": "Legacy papers (pre-March 2026)"
+    },
+    "floor_current": {
+      "multiplier": 0.432,
+      "method": "C3-C4 rolling average P1",
+      "use": "Current operative definition"
+    }
+  },
+  "formulas": {
+    "trend_price": "10^(logA + beta * log10(days_since_genesis))",
+    "floor_price": "multiplier * trend_price",
+    "bfr_exact": "((days + 365) / days)^beta - 1",
+    "bfr_simplified_DO_NOT_USE": "beta * 365 / days"
+  },
+  "reference_issuance": {
+    "date": "2027-01-01",
+    "days_since_genesis": 6572,
+    "bfr_exact": 0.3599,
+    "trend_price_usd": 166749,
+    "floor_current_usd": 72036,
+    "floor_conservative_usd": 52359
+  },
+  "dataset": {
+    "source": "btcpowerlaw.nl/datasets/btc_historical.json",
+    "observations": 5713,
+    "start": "2010-07-18",
+    "end": "2026-03-08",
+    "effective_sample_size": 24
+  }
+}
