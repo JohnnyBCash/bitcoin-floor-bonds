@@ -1,0 +1,51 @@
+<svg width="680" height="480" viewBox="0 0 680 480" xmlns="http://www.w3.org/2000/svg" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+
+<!-- Grid lines -->
+<line x1="80" y1="400" x2="640" y2="400" stroke="#D3D1C7" stroke-width="0.3"/>
+<text x="72" y="404" text-anchor="end" font-size="11" fill="#888780">0%</text>
+<line x1="80" y1="355" x2="640" y2="355" stroke="#D3D1C7" stroke-width="0.3"/>
+<text x="72" y="359" text-anchor="end" font-size="11" fill="#888780">5%</text>
+<line x1="80" y1="310" x2="640" y2="310" stroke="#D3D1C7" stroke-width="0.3"/>
+<text x="72" y="314" text-anchor="end" font-size="11" fill="#888780">10%</text>
+<line x1="80" y1="265" x2="640" y2="265" stroke="#D3D1C7" stroke-width="0.3"/>
+<text x="72" y="269" text-anchor="end" font-size="11" fill="#888780">15%</text>
+<line x1="80" y1="220" x2="640" y2="220" stroke="#D3D1C7" stroke-width="0.3"/>
+<text x="72" y="224" text-anchor="end" font-size="11" fill="#888780">20%</text>
+<line x1="80" y1="175" x2="640" y2="175" stroke="#D3D1C7" stroke-width="0.3"/>
+<text x="72" y="179" text-anchor="end" font-size="11" fill="#888780">25%</text>
+<line x1="80" y1="130" x2="640" y2="130" stroke="#D3D1C7" stroke-width="0.3"/>
+<text x="72" y="134" text-anchor="end" font-size="11" fill="#888780">30%</text>
+<line x1="80" y1="85" x2="640" y2="85" stroke="#D3D1C7" stroke-width="0.3"/>
+<text x="72" y="89" text-anchor="end" font-size="11" fill="#888780">35%</text>
+<line x1="80" y1="40" x2="640" y2="40" stroke="#D3D1C7" stroke-width="0.3"/>
+<text x="72" y="44" text-anchor="end" font-size="11" fill="#888780">40%</text>
+<text x="131" y="420" text-anchor="middle" font-size="11" fill="#888780">2030</text>
+<text x="216" y="420" text-anchor="middle" font-size="11" fill="#888780">2035</text>
+<text x="301" y="420" text-anchor="middle" font-size="11" fill="#888780">2040</text>
+<text x="385" y="420" text-anchor="middle" font-size="11" fill="#888780">2045</text>
+<text x="470" y="420" text-anchor="middle" font-size="11" fill="#888780">2050</text>
+<text x="555" y="420" text-anchor="middle" font-size="11" fill="#888780">2055</text>
+<text x="640" y="420" text-anchor="middle" font-size="11" fill="#888780">2060</text>
+<line x1="80" y1="360" x2="640" y2="360" stroke="#888780" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="644" y="364" font-size="11" fill="#888780">4.5%</text>
+<polyline points="80.0,76.3 97.0,95.4 113.9,112.5 130.9,127.7 147.9,141.4 164.8,153.8 181.8,165.0 198.8,175.3 215.8,184.7 232.7,193.4 249.7,201.4 266.7,208.8 283.6,215.7 300.6,222.0 317.6,228.0 334.5,233.6 351.5,238.8 368.5,243.7 385.5,248.4 402.4,252.7 419.4,256.8 436.4,260.7 453.3,264.4 470.3,267.9 487.3,271.2 504.2,274.4 521.2,277.4 538.2,280.3 555.2,283.0 572.1,285.6 589.1,288.1 606.1,290.5 623.0,292.8 640.0,295.0" fill="none" stroke="#185FA5" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="80.0,335.3 97.0,339.1 113.9,342.5 130.9,345.5 147.9,348.3 164.8,350.8 181.8,353.0 198.8,355.1 215.8,356.9 232.7,358.7 249.7,360.3 266.7,361.8 283.6,363.1 300.6,364.4 317.6,365.6 334.5,366.7 351.5,367.8 368.5,368.7 385.5,369.7 402.4,370.5 419.4,371.4 436.4,372.1 453.3,372.9 470.3,373.6 487.3,374.2 504.2,374.9 521.2,375.5 538.2,376.1 555.2,376.6 572.1,377.1 589.1,377.6 606.1,378.1 623.0,378.6 640.0,379.0" fill="none" stroke="#0F6E56" stroke-width="1.5" stroke-dasharray="8 4" stroke-linejoin="round"/>
+<polyline points="80.0,286.7 97.0,293.4 113.9,299.4 130.9,304.7 147.9,309.5 164.8,313.8 181.8,317.8 198.8,321.4 215.8,324.7 232.7,327.7 249.7,330.5 266.7,333.1 283.6,335.5 300.6,337.7 317.6,339.8 334.5,341.8 351.5,343.6 368.5,345.3 385.5,346.9 402.4,348.5 419.4,349.9 436.4,351.3 453.3,352.5 470.3,353.8 487.3,354.9 504.2,356.0 521.2,357.1 538.2,358.1 555.2,359.0 572.1,360.0 589.1,360.8 606.1,361.7 623.0,362.5 640.0,363.2" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="8 4" stroke-linejoin="round"/>
+<line x1="250" y1="40" x2="250" y2="400" stroke="#0F6E56" stroke-width="0.5" stroke-dasharray="3 3"/>
+<rect x="190" y="50" width="120" height="20" rx="4" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text x="250" y="64" text-anchor="middle" font-size="10" fill="#085041">Senior ~2037</text>
+<line x1="572" y1="40" x2="572" y2="400" stroke="#D85A30" stroke-width="0.5" stroke-dasharray="3 3"/>
+<rect x="512" y="75" width="120" height="20" rx="4" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/>
+<text x="572" y="89" text-anchor="middle" font-size="10" fill="#712B13">Junior ~2056</text>
+
+<circle cx="80" cy="440" r="5" fill="#185FA5"/>
+<text x="92" y="444" font-size="12" fill="#5F5E5A">Bitcoin floor rate</text>
+<line x1="190" y1="440" x2="210" y2="440" stroke="#0F6E56" stroke-width="1.5" stroke-dasharray="6 3"/>
+<text x="218" y="444" font-size="12" fill="#5F5E5A">Senior (K=0.20)</text>
+<line x1="340" y1="440" x2="360" y2="440" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="6 3"/>
+<text x="368" y="444" font-size="12" fill="#5F5E5A">Junior (K=0.35)</text>
+<line x1="490" y1="440" x2="510" y2="440" stroke="#888780" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="518" y="444" font-size="12" fill="#5F5E5A">5yr Treasury</text>
+
+<text x="80" y="468" font-size="11" fill="#888780">Coupon lines show K * BFR. Both eventually cross below Treasury yield. Senior at ~year 10. Junior at ~year 29.</text>
+</svg>
