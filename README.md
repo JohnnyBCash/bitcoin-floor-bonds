@@ -144,7 +144,7 @@ MIT. Use it. Build on it. Issue bonds with it.
 
 ## Contact
 
-Scale Invariant Capital BV
+Scale Invariant Capital
 [btcpowerlaw.nl](https://btcpowerlaw.nl)
 
 ---
